@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=/harga/pipa-beton-bertulang">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/harga/pipa-beton-bertulang";
+		</script>
+
+		<p>You are being redirected to <a href="/harga/pipa-beton-bertulang">/harga/pipa-beton-bertulang</a></p>
+	</body>
+</html>
